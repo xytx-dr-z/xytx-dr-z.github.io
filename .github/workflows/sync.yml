@@ -1,6 +1,7 @@
 name: Sync
 
-on: [ psuh ]
+on: 
+    psuh：
     branches: [master]
 
 jobs:
